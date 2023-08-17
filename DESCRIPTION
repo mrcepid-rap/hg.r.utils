@@ -1,0 +1,20 @@
+Package: hg.r.utils
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Eugene J. Gardner
+Maintainer: Eugene J. Gardner <eugene.gardner@insmed.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: None
+Encoding: UTF-8
+LazyData: true
+Depends:
+    data.table,
+    patchwork,
+    lemon,
+    broom,
+    ggplot2,
+    tidyr,
+    stringr
+RoxygenNote: 7.2.3
